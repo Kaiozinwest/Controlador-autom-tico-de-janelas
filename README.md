@@ -5,3 +5,11 @@ Este projeto para a disciplina de Introdução a Internet das Coisas (IIC), tem 
 ## Pré requisitos
 
 Monte o [circuito](https://wokwi.com/projects/416280102948527105) e instale alguma IDE apropriada para executar códigos.
+
+## Construído com
+
+Linguagem [C](https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170) e [Adafruit IO](https://io.adafruit.com/Kaioalves/overview).
+
+## Criadores
+[Kaio Alves](https://github.com/Kaiozinwest) e
+Bruna Eduarda 
